@@ -1,4 +1,4 @@
-# Radiative Transfer in Protoplanetary Discs
+# Companion Cast Shadows in Protoplanetary Discs
 
 This repository contains the code used to produce the results presented in our paper ([link to paper]), which investigates how shadows induced by orbiting companions affect the structure and observable properties of protoplanetary discs.
 
